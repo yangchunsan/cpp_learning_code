@@ -1,0 +1,97 @@
+﻿  Contact.cpp
+C:\VS\Contact\Contact\Contact.cpp(25,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(25,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(25,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(25,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(29,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(29,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(29,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(29,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(31,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(31,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(31,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(31,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(33,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(33,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(33,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(33,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(46,10): warning C4477: “printf”: 格式字符串“%5s”需要类型“char *”的参数，但可变参数 2 拥有了类型“const int”
+C:\VS\Contact\Contact\Contact.cpp(46,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "const int" 的参数 2 冲突
+C:\VS\Contact\Contact\Contact.cpp(46,10): warning C4476: "printf": 格式说明符中的类型字段字符“\t”未知
+C:\VS\Contact\Contact\Contact.cpp(50,24): warning C4474: printf: 格式字符串中传递的参数太多
+      C:\VS\Contact\Contact\Contact.cpp(50,24):
+      占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+  
+C:\VS\Contact\Contact\Contact.cpp(80,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(80,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(80,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(80,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(104,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(104,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(104,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(104,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(127,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(127,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(127,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(127,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(138,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(138,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(138,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(138,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(142,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(142,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(142,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(142,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(144,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(144,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(144,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(144,10):
+      此参数用作缓冲区大小
+  
+C:\VS\Contact\Contact\Contact.cpp(146,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\VS\Contact\Contact\Contact.cpp(146,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\VS\Contact\Contact\Contact.cpp(146,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      C:\VS\Contact\Contact\Contact.cpp(146,10):
+      此参数用作缓冲区大小
+  
+  Contact.vcxproj -> C:\VS\Contact\x64\Debug\Contact.exe

@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\VS\ceshi1\ceshi1\源.cpp(387,6): warning C4101: “arr”: 未引用的局部变量
+  ceshi1.vcxproj -> C:\VS\ceshi1\x64\Debug\ceshi1.exe

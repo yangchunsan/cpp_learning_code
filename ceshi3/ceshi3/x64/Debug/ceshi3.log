@@ -1,0 +1,42 @@
+﻿  源.cpp
+C:\VS\ceshi3\ceshi3\源.cpp(397,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(397,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(398,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(398,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(399,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(399,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(400,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(400,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(401,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(401,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(402,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(402,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(403,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(403,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(404,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(404,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(405,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(405,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\VS\ceshi3\ceshi3\源.cpp(406,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\VS\ceshi3\ceshi3\源.cpp(406,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  ceshi3.vcxproj -> C:\VS\ceshi3\x64\Debug\ceshi3.exe

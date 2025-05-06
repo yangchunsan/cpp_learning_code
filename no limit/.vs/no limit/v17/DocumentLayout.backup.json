@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\no limit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D80185-FDC5-44CC-BB6A-776202DCCE1A}|no limit\\no limit.vcxproj|C:\\VS\\no limit\\no limit\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77D80185-FDC5-44CC-BB6A-776202DCCE1A}|no limit\\no limit.vcxproj|solutionrelative:no limit\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\VS\\no limit\\no limit\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "no limit\\\u6E90.cpp",
+              "ToolTip": "C:\\VS\\no limit\\no limit\\\u6E90.cpp",
+              "RelativeToolTip": "no limit\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T02:27:20.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

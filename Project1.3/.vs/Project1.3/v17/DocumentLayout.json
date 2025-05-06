@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\Project1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40007724-6A18-4703-B053-4BB4470EA660}|Project1.3\\Project1.3.vcxproj|C:\\VS\\Project1.3\\Project1.3\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40007724-6A18-4703-B053-4BB4470EA660}|Project1.3\\Project1.3.vcxproj|solutionrelative:Project1.3\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\VS\\Project1.3\\Project1.3\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Project1.3\\\u6E90.cpp",
+              "ToolTip": "C:\\VS\\Project1.3\\Project1.3\\\u6E90.cpp",
+              "RelativeToolTip": "Project1.3\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T11:00:51.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
