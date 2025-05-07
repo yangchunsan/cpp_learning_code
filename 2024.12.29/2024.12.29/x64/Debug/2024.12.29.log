@@ -1,0 +1,12 @@
+﻿婧?c(5,9): warning : unused variable 'i' [-Wunused-variable]
+婧?c(24,9): warning : unused variable 'j' [-Wunused-variable]
+婧?c(48,5): warning : 'scanf' is deprecated: This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(1275,20): message : 'scanf' has been explicitly marked deprecated here
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h(356,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h(346,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+婧?c(54,9): warning : 'scanf' is deprecated: This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(1275,20): message : 'scanf' has been explicitly marked deprecated here
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h(356,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h(346,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+婧?c(51,9): warning : unused variable 'i' [-Wunused-variable]
+  2024.12.29.vcxproj -> C:\VS\2024.12.29\x64\Debug\2024.12.29.exe

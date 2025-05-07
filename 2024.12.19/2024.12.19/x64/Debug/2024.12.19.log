@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\VS\2024.12.19\2024.12.19\源.cpp(132,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\VS\2024.12.19\2024.12.19\源.cpp(133,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\VS\2024.12.19\2024.12.19\源.cpp(140,2): error C2660: “strncat_s”: 函数不接受 2 个参数
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(52,30):
+      参见“strncat_s”的声明
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(255,1):
+      可能是“errno_t strncat_s(char (&)[_Size],const char *,size_t) throw()”
+          C:\VS\2024.12.19\2024.12.19\源.cpp(140,2):
+          “errno_t strncat_s(char (&)[_Size],const char *,size_t) throw()”: 应输入 3 个参数，却提供了 2 个
+      C:\VS\2024.12.19\2024.12.19\源.cpp(140,2):
+      尝试匹配参数列表“(char *, char *)”时
+  

@@ -1,0 +1,3 @@
+C:/Code/Cpp_Learning_Code/program/2025.1.13/cmake-build-debug/CMakeFiles/2025_1_13.dir
+C:/Code/Cpp_Learning_Code/program/2025.1.13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code/Cpp_Learning_Code/program/2025.1.13/cmake-build-debug/CMakeFiles/rebuild_cache.dir

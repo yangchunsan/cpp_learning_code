@@ -1,0 +1,4 @@
+﻿  源.c
+C:\VS\2024.12.28\2024.12.28\源.c(128,30): warning C4013: “SQUARE”未定义；假设外部返回 int
+源.obj : error LNK2019: 无法解析的外部符号 SQUARE，函数 main 中引用了该符号
+C:\VS\2024.12.28\x64\Debug\2024.12.28.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\\u9017\u53F7\u8868\u8FBE\u5F0F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3A5F5F-2DA2-4418-B310-44F5C824A499}|\u9017\u53F7\u8868\u8FBE\u5F0F\\\u9017\u53F7\u8868\u8FBE\u5F0F.vcxproj|C:\\VS\\\u9017\u53F7\u8868\u8FBE\u5F0F\\\u9017\u53F7\u8868\u8FBE\u5F0F\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E3A5F5F-2DA2-4418-B310-44F5C824A499}|\u9017\u53F7\u8868\u8FBE\u5F0F\\\u9017\u53F7\u8868\u8FBE\u5F0F.vcxproj|solutionrelative:\u9017\u53F7\u8868\u8FBE\u5F0F\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\VS\\\u9017\u53F7\u8868\u8FBE\u5F0F\\\u9017\u53F7\u8868\u8FBE\u5F0F\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u9017\u53F7\u8868\u8FBE\u5F0F\\\u6E90.cpp",
+              "ToolTip": "C:\\VS\\\u9017\u53F7\u8868\u8FBE\u5F0F\\\u9017\u53F7\u8868\u8FBE\u5F0F\\\u6E90.cpp",
+              "RelativeToolTip": "\u9017\u53F7\u8868\u8FBE\u5F0F\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T03:19:17.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
