@@ -84,8 +84,10 @@
      int m_B;
  };
 
-void operator<<(ostream &cout, Person &p) {//cout的数据类型是ostream
+ostream& operator<<(ostream &cout, Person &p) {//cout的数据类型是ostream
      cout << p.m_A << " " << p.m_B << endl;
+
+    return cout;
  }
 
 
@@ -94,7 +96,7 @@ void operator<<(ostream &cout, Person &p) {//cout的数据类型是ostream
      p.m_A = 10;
      p.m_B = 10;
 
-     cout << p;
+     cout << p << endl;
  }
 
  int main() {

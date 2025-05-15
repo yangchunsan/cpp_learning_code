@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\VS\\2024.12.24\\",
+  "WorkspaceRootPath": "D:\\Code\\Cpp_Code\\2024.12.24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{883F8BE9-E972-47D3-879F-4634A4F0D78B}|2024.12.24\\2024.12.24.vcxproj|C:\\VS\\2024.12.24\\2024.12.24\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{883F8BE9-E972-47D3-879F-4634A4F0D78B}|2024.12.24\\2024.12.24.vcxproj|D:\\Code\\Cpp_Code\\2024.12.24\\2024.12.24\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{883F8BE9-E972-47D3-879F-4634A4F0D78B}|2024.12.24\\2024.12.24.vcxproj|solutionrelative:2024.12.24\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.c",
-              "DocumentMoniker": "C:\\VS\\2024.12.24\\2024.12.24\\\u6E90.c",
+              "DocumentMoniker": "D:\\Code\\Cpp_Code\\2024.12.24\\2024.12.24\\\u6E90.c",
               "RelativeDocumentMoniker": "2024.12.24\\\u6E90.c",
-              "ToolTip": "C:\\VS\\2024.12.24\\2024.12.24\\\u6E90.c",
-              "RelativeToolTip": "2024.12.24\\\u6E90.c",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAAwMEAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Code\\Cpp_Code\\2024.12.24\\2024.12.24\\\u6E90.c*",
+              "RelativeToolTip": "2024.12.24\\\u6E90.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-24T03:51:37.424Z",
               "EditorCaption": ""
