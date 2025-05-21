@@ -477,7 +477,7 @@ public:
 class Java:public BasePage {
 public:
     void content() {
-        cout << "教学视频" << endl;
+        cout << "JAVA教学视频" << endl;
     }
 };
 

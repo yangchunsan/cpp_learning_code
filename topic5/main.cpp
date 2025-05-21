@@ -5,6 +5,7 @@
 #include <string>
 #include <climits>
 #include <cmath>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -123,5 +124,6 @@ int main() {
     cout << "最小距离点对为：(" << result.p1.x << "," << result.p1.y << "), (" << result.p2.x << "," << result.p2.y << ")" << endl;
     cout << "最小距离为：" << sqrt(result.distance_sq) << endl;
 
+    system("pause");
     return 0;
 }

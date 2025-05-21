@@ -1,6 +1,6 @@
 ﻿  源.cpp
-D:\Code\Cpp_Code\topic1.1\源.cpp(50,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\Code\Cpp_Code\topic1.1\源.cpp(99,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\Code\Cpp_Code\topic1.1\源.cpp(128,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\Code\Cpp_Code\topic1.1\源.cpp(144,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\Cpp_Code\topic1.1\源.cpp(53,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\Cpp_Code\topic1.1\源.cpp(111,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\Cpp_Code\topic1.1\源.cpp(140,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\Cpp_Code\topic1.1\源.cpp(156,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   topic1.1.vcxproj -> D:\Code\Cpp_Code\topic1.1\x64\Debug\topic1.1.exe
