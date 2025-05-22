@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 生成100个随机整数（范围1-1000）
+// 生成100个随机整数，范围是1-1000
 vector<int> generate_random_numbers() {
     random_device rd;
     mt19937 gen(rd());

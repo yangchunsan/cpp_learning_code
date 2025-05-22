@@ -4,6 +4,8 @@
 #include <string>
 using namespace std;
 
+//快速排序
+
 int partition(vector<string>& arr, int low, int high) {
     string pivot = arr[high];
     int i = low - 1;
