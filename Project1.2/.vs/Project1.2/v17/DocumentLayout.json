@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\VS\\Project1.2\\",
+  "WorkspaceRootPath": "D:\\Code\\Cpp_Code\\Project1.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B015CCC5-3467-4849-810C-499AF5D2D325}|Project1.2\\Project1.2.vcxproj|C:\\VS\\Project1.2\\Project1.2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B015CCC5-3467-4849-810C-499AF5D2D325}|Project1.2\\Project1.2.vcxproj|solutionrelative:Project1.2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Cpp_Code\\Project1.2\\Project1.2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1.2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.cpp",
-              "DocumentMoniker": "C:\\VS\\Project1.2\\Project1.2\\\u6E90.cpp",
+              "DocumentMoniker": "D:\\Code\\Cpp_Code\\Project1.2\\Project1.2\\\u6E90.cpp",
               "RelativeDocumentMoniker": "Project1.2\\\u6E90.cpp",
-              "ToolTip": "C:\\VS\\Project1.2\\Project1.2\\\u6E90.cpp",
+              "ToolTip": "D:\\Code\\Cpp_Code\\Project1.2\\Project1.2\\\u6E90.cpp",
               "RelativeToolTip": "Project1.2\\\u6E90.cpp",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-08T10:17:10.452Z",
               "EditorCaption": ""
